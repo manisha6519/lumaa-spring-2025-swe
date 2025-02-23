@@ -139,7 +139,7 @@ The frontend should now be running on **http://localhost:5000**.
 
 ## **Short Video Demo**
 A video demonstrating the app’s functionality can be found at:  
-👉 [Demo](./Lumaa_FullStackCodingChallenge.mp4)
+👉 [Demo](https://drive.google.com/file/d/10-KJI1JVWu-RXCV4Zijva2VWVMfDaaMo/view?usp=drive_link)
 
 ### **Demo Includes:**
 ✅ Registering a user  
